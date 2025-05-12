@@ -1,4 +1,3 @@
-echo *.csv > .gitignore
-echo *.json >> .gitignore
-echo w* >> .gitignore
-type .gitignore
+*.csv 
+*.json 
+w* 
